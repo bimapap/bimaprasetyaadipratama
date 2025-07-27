@@ -40,12 +40,17 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🧪 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimaprasetyaadipratama&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bimaprasetyaadipratama&theme=tokyonight" width="48%" />
-</p>
+🔹 **Smart Arisan App**  
+A microservice-based arisan system with Laravel + Node.js backend and Flutter mobile app.  
+🧰 Stack: PHP, Node.js, MySQL, Redis, Docker  
+🔗 [GitHub Repo](https://github.com/username/arisan-app) | [Demo](#)
+
+🔹 **Workflow Automation with K2**  
+Custom workflow for finance approval integrated with SQL Server and legacy systems.  
+🧰 Stack: K2, C#, .NET, SQL Server  
+
 
 ---
 
